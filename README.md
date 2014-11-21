@@ -1,7 +1,30 @@
-Rushanime
-=========
+VLAD
+====
 
-Only the Rush part of the VLAD(Variegated Learner Anime Downloader).
-Working is similar to the original VLAD.
-It offers you a lot more flexibility
-For people who prefer to use it in their linux box.
+A sub part of VLAD uses only Rushanime to scrape for links made especially for linux users.
+
+## DESCRIPTION
+It offeres a lot more flexibility for tweaking.
+
+## REQUIREMENTS
+[Python (version 2.7+)](http://www.python.org)
+
+[wxPython](http://wxpython.org)
+
+[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
+
+[requests](http://docs.python-requests.org/en/latest/)
+
+## PROJECT HOMEPAGE
+
+
+## AUTHOR
+Sibi Sankar
+email:  <sibi.vasank@gmail.com>
+
+Vigneshwar Nellaiyappan
+email:  <vignesh.sniper@gmail.com>
+
+
+
+## THANKS
