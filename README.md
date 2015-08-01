@@ -1,7 +1,7 @@
-VLAD
+RushAnime
 ====
 
-A sub part of VLAD uses only Rushanime to scrape for links made especially for linux users.
+A sub part of VLAD uses only Rushanime to scrape for links made only especially for linux users.
 
 ## DESCRIPTION
 It offeres a lot more flexibility for tweaking.
@@ -21,10 +21,5 @@ It offeres a lot more flexibility for tweaking.
 ## AUTHOR
 Sibi Sankar
 email:  <sibi.vasank@gmail.com>
-
-Vigneshwar Nellaiyappan
-email:  <vignesh.sniper@gmail.com>
-
-
 
 ## THANKS
